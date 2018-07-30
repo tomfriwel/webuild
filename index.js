@@ -12,7 +12,7 @@ var path = require('path')
 //     }
 
 //     console.log("The file was saved!");
-// }); 
+// });
 
 var js_reg = /<script\b[^>]*>([\s\S]*?)<\/script>/gm;
 var html_reg = /<template\b[^>]*>([\s\S]*?)<\/template>/gm;

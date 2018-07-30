@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/tomfriwel/webuild#readme",
   "dependencies": {
-    "chokidar": "^2.0.2"
+    "chokidar": "^2.0.2",
+    "libxmljs": "^0.19.1",
+    "xml-stream": "^0.4.5",
+    "xml2js": "^0.4.19"
   }
 }
